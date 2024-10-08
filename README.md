@@ -1,6 +1,6 @@
 # Resin-Calculator-Flutter
 
-My android app published on Google Play:
+My android Flutter app published on Google Play:
 
 https://play.google.com/store/apps/details?id=shaghayegh.resin_calculator
 
